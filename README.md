@@ -6,6 +6,7 @@ This repository contains Python files that demonstrate the concepts of Classes a
 Applications:
 
 --> Organizing code into reusable and logical structures.
+
 --> Modeling real-world entities (Car, BankAccount, Student, Employee).
 --> Reusability through inheritance and modularity.
 --> Scalability in building large applications like:
